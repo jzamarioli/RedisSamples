@@ -1,0 +1,20 @@
+﻿@model RedisSession.ViewModel.UserViewModel
+@{
+    Layout = null;
+}
+
+<div>
+    Current Datetime:
+    <br />
+    @DateTime.Now
+    <br />
+    <br />
+    @Model.Id
+    <br />
+    @Model.Username
+    <br />
+    @Model.Role
+    <br />
+    @Model.CreatedOn
+    <br />
+</div>
