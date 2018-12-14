@@ -1,7 +1,6 @@
 # Redis Samples
 
 <br />
-<br />
 Here you can find two .Net Core applications for testing some Redis features.
 <br />
 <br />
@@ -42,7 +41,7 @@ At the minute this is a paid tool, but you can find it for free in the <strong>'
 <br />
 Note: Redis isn't officially supported on Windows.
 <br />
-To get always the last version of Redis, use Docker instead.
+To get always the latest version of Redis, use Docker instead.
 <br />
 <br />
 For further documentation please visit the <a href="https://redis.io/">Redis Official website</a>
